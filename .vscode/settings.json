@@ -1,0 +1,17 @@
+{
+    "sqltools.connections": [
+        {
+            "pgOptions": {
+                "ssl": true
+            },
+            "previewLimit": 50,
+            "server": "ec2-3-215-57-87.compute-1.amazonaws.com",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "database": "d73ouu2url9gue",
+            "username": "noocqiekeriume",
+            "password": "fde79b86a93f829747f54e92c4122a4bdd9f5e94090498a8fe9e66289c40cbd6",
+            "name": "Unit5 DB"
+        }
+    ]
+}
